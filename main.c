@@ -10,8 +10,6 @@
 #include <sys/stat.h>
 #include <sys/syscall.h>
 
-#include <stdio.h>
-
 #define BUFSIZE 256
 #define SYSEOF 0
 #define FAILURE -1
